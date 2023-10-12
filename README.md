@@ -12,3 +12,4 @@ this code is a try to emulate an 1541 floppy drive with an esp32 running @240Mhz
 1541 ROM code is running and is doing a lot i added an simulated IRQ at every 256 MOTOR OFF cycles for demonstrating 6502 IRQ
 
 feel free to use it for whatever you want just give credit to me https://instagram.com/SuperNeotendo
+<img width="560" alt="Screenshot 2023-10-13 004910" src="https://github.com/SuperNeotendo/esp1541/assets/45854100/cb08bcac-0340-4b77-9193-b489feacef0a">
