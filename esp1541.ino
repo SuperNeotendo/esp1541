@@ -41,7 +41,7 @@
 
 
 void setup() {
-  //Serial.begin(115200);   // Disable Serial for full speed
+  Serial.begin(115200);   // Disable Serial for full speed
 
   Serial.println();
   Serial.println();
